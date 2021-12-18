@@ -1,6 +1,6 @@
 ### Bonjour ! 👋
 
-Je suis Thomas BEYLEMANS, un développeur web en devenir puisque j'ai choisi d'entamer ma reconversion professionnelle après 18 ans passés à l'ingénieurie Electrique/Electronique chez Renault. Pour bien faire tout ça, je suis une formation avec l'école [O'clock](https://oclock.io/) et je deviendrai un développeur web fullstack JS (React/Node.JS).
+Je suis Thomas BEYLEMANS, un développeur web en devenir puisque j'ai choisi d'entamer ma reconversion professionnelle après 18 ans passés à l'ingénierie Electrique/Electronique chez Renault. Pour bien faire tout ça, je suis une formation avec l'école [O'clock](https://oclock.io/) et je deviendrai un développeur web fullstack JS (React/Node.JS).
 
 Suivez mon évolution !
 
